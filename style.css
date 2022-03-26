@@ -1,0 +1,26 @@
+h1{
+    font-style: bold;
+    size: 55cm;
+    text-align: center;
+}
+.navLeft{
+    float: left;
+    background-color: aquamarine;
+    width: 100px;
+    height: 300px;
+    outline-style: dashed
+}
+.navRight{
+    float:right;
+    text-align: left;
+    font-style: italic;
+    background-color: beige;
+    width: 100px;
+    height: 300px;
+}
+section{
+    display: table;
+}
+#testId{
+    background-color: blue;
+}
